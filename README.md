@@ -7,5 +7,5 @@
 ### Papers
 |#| Title | Author | Language | Link |
 |---|---|---|---|---|
-| 1 | Ransomware: Akira vs Papel Prensa SA | Emmanuel Di Battista | Spanish | https://mega.nz/file/sI9STDaR#kVaklkrlw8z1jjqp7wa3pr5une_UwfLBZVKUBDDILo4 |
+| 1 | Ransomware: Akira vs Papel Prensa SA | Emmanuel Di Battista | Spanish | https://mega.nz/file/1REEwJyL#ysSsqgcKWFxfvg-jVzqHgddPOJion19ET3rUdmTjgB4 |
 | 2 | Ransomware: Rhysida vs PAMI | Luis Ángel Ramírez Mendoza | Spanish | - |
