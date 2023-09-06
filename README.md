@@ -9,3 +9,5 @@
 |---|---|---|---|---|
 | 1 | Ransomware: Akira vs Papel Prensa SA | Emmanuel Di Battista | Spanish | https://bca.ltd/BCA-0001 |
 | 2 | Ransomware: Rhysida vs PAMI | Luis Ángel Ramírez Mendoza | Spanish | https://bca.ltd/BCA-0002 |
+| 3 | Ransomware: Lockbit vs Guyer & Regules | Mauro Eldritch | Spanish | https://bca.ltd/BCA-0003 |
+| 4 | Data Breach: c0wb0y5 vs BTR Consulting | Mauro Eldritch | Spanish | https://bca.ltd/BCA-0004 |
