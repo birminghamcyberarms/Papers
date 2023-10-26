@@ -14,3 +14,4 @@
 | 5 | Web3: Phishing | Luis Ángel Ramírez Mendoza | Spanish | https://bca.ltd/BCA-0005 |
 | 6 | Ransomware: PLAY vs MTOP | Emmanuel Di Battista | Spanish | https://bca.ltd/BCA-0006 |
 | 7 | Ransomware: Cl0p, MOVEit, Fiserv, ¿Geocom? | Mauro Eldritch | Spanish | https://bca.ltd/BCA-0007 |
+| 8 | Cybercrime: Initial Access Brokers | Santiago Pérez Montaño | Spanish | https://bca.ltd/BCA-0008 |
